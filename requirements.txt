@@ -22,3 +22,5 @@ google-cloud-storage
 termcolor
 datetime
 pytz
+uvicorn
+fastapi
